@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Mythili S",
+      "email": "mythili@gmail.com",
+      "password": "1234567",
+      "phoneNumber": "8747667585",
+      "address": "18,Merku Pudur, Nasiyanur(PO),Erode(TK)&(DT).",
+      "dateOfBirth": "2004-06-22",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.fullscreen-carousel {
+  height: 100vh; /* Set carousel height to full viewport height */
+}
+
+.fullscreen-item {
+  height: 100vh; /* Set each carousel item to full viewport height */
+  overflow: hidden; /* Hide any overflow from the items */
+}
+
+.fullscreen-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Maintain aspect ratio and cover entire item */
+}
